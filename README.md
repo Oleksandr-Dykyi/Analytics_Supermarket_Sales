@@ -15,4 +15,4 @@ In this project, I utilized Power BI to analyze the "Supermarket Sales" dataset 
 Connected to the National Bank of Ukraine's API to fetch the latest dollar exchange rate. Created a table "Currency" to manage currency options (UAH and USD) and integrated a Currency filter for ease of selection in the dashboard. Implemented measures that dynamically adjust based on the chosen currency, utilizing these measures in the corresponding graph and verified their accuracy.
 
 #### Skills:
-Power BI, Business Intelligence (BI)
+Data Analysis · Business Intelligence (BI) · Microsoft Power BI · Microsoft Power Query · Data Visualization
